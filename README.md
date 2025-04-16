@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @nivena
-- 👀 I’m interested in blockchain technology, driven by three tenets: innovation, disruption, and lifelong learning.
-- 🌱 Advanced Diploma of applied blockchain technology.
-- 💞️ Project Manager building an insurance business on the blockchain, as well as transitioning SME businesses to blockchain with reputation systems and supply chain management smart contracts.
-- 📫 Reach me via email niv.aldridge@gmail.com or +61403663145
+# 👋 Hi, I'm Niven — Founder & Web3 Product Builder
 
-<!---
-nivena/nivena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm the creator of **FractionalHQ**, a modular Web3 studio building MVPs for real-world asset ownership.
+
+---
+
+### 🚀 What I’m Working On
+
+🧱 **FractionalHQ: Property MVP**  
+> A fractional real estate platform with smart contract-powered governance, share-based portfolios, and secondary market liquidity.  
+Built with Solidity, Polygon (Amoy testnet), TypeScript, React, and Ethers.js.
+
+🛡 **FractionalHQ: Insurance MVP** *(coming soon)*  
+> DAO-governed insurance pools with on-chain proposal and claim voting logic. Transparent. Decentralized. Efficient.
+
+---
+
+### 🧰 Tech Stack
+
+- `Solidity` · `Ethers.js` · `Hardhat`  
+- `TypeScript` · `Next.js` · `Tailwind CSS`  
+- `Polygon` · `Web3 Wallet Integration`  
+- Modular UI with clean component structure and real-time on-chain interaction
+
+---
+
+### 🧠 Philosophy
+
+I’m building tools that give people **co-ownership of real value** — starting with real estate, but expanding into:
+
+- Art & collectibles  
+- Insurance & risk pooling  
+- Tokenized business assets
+
+FractionalHQ is a studio, not just a startup.
+
+---
+
+### 🔗 Connect
+
+- [LinkedIn](https://linkedin.com/company/fractionalhq)  
+- [Twitter / X](https://twitter.com/fractionalhq1)  
+- Email: `studio@fractionalhq.com`
+
+Let’s build the rails for borderless, trustless ownership.
